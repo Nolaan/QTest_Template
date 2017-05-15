@@ -19,7 +19,7 @@ Usage:
   * There's a demo code to get you started and be sure that everything is installed correctly, select the test case source and run all tests.
   You should got a similar output :
 
-  ![Tests Output](https://github.com/Nolaan/QTest_Template/blob/master/test_output.png)
+  ![Tests Output](https://github.com/Nolaan/QTest_Template/blob/master/tests_output.png)
 
 
 
